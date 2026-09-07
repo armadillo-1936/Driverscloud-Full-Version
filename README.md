@@ -240,3 +240,6 @@ This repository serves as the official landing page for DriversCloud. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DriversCloud today!**
+
+---
+**Last updated:** 2026-09-07 16:41:28 UTC
